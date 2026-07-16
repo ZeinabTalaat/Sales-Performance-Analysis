@@ -269,34 +269,15 @@ The analysis helps answer important business questions:
 
 ---
 
-# 📂 Repository Structure
+# 🚀 Project Outcome
 
-```text
-Sales-Performance-Analysis/
-│
-├── README.md
-│
-├── 01_Raw_Data/
-│
-├── 02_Data_Cleaning_Power_Query/
-│
-├── 03_Data_Modeling/
-│
-├── 04_DAX_Measures/
-│
-├── 05_Power_BI/
-│
-├── 06_Excel_Dashboard/
-│
-├── 07_Tableau_Dashboard/
-│
-├── 08_Presentation/
-│
-└── 09_Project_Documentation/
+This project demonstrates the complete process of transforming raw sales data into actionable business insights using:
 
----
+Data Cleaning + Data Modeling + DAX + Data Visualization + Business Analysis
 
-## 👩‍💻 Created By
+The project combines multiple Business Intelligence tools to provide a complete and interactive Sales Analytics solution.
+
+# 👩‍💻 Created By
 Zeinab Talaat
 Mai Ghazal
 Haneen Mohammed
