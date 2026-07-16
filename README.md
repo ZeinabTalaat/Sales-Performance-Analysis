@@ -82,9 +82,6 @@ The analysis was implemented using **Power Query, Power BI, DAX, Microsoft Excel
         │   Business   │
         │   Insights    │
         └──────────────┘
-
-
-
 🧹 Data Cleaning – Power Query
 
 The raw dataset was cleaned and transformed using Power Query.
@@ -231,7 +228,6 @@ It combines:
 Data Cleaning + Data Modeling + DAX + Data Visualization + Business Analysis
 
 to create a complete and interactive analytics solution.
-
 👩‍💻 Created By
 Zeinab Talaat
 Mai Ghazal
