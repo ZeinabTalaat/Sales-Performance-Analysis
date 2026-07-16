@@ -247,28 +247,6 @@ The analysis helps answer important business questions:
 
 ---
 
-# 📸 Dashboard Preview
-
-## 🔵 Power BI Dashboard
-
-<p align="center">
-  <img src="screenshots/powerbi_overview.png" width="90%">
-</p>
-
-## 📗 Excel Dashboard
-
-<p align="center">
-  <img src="screenshots/excel_dashboard.png" width="90%">
-</p>
-
-## 📈 Tableau Dashboard
-
-<p align="center">
-  <img src="screenshots/tableau_dashboard.png" width="90%">
-</p>
-
----
-
 # 🚀 Project Outcome
 
 This project demonstrates the complete process of transforming raw sales data into actionable business insights using:
