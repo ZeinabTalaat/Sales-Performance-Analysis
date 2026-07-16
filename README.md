@@ -256,10 +256,10 @@ Data Cleaning + Data Modeling + DAX + Data Visualization + Business Analysis
 The project combines multiple Business Intelligence tools to provide a complete and interactive Sales Analytics solution.
 
 # 👩‍💻 Created By
-Zeinab Talaat
-Mai Ghazal
-Haneen Mohammed
-Malek Mahmoud
-Mahmoud Yasser
+- Zeinab Talaat
+- Mai Ghazal
+- Haneen Mohammed
+- Malek Mahmoud
+- Mahmoud Yasser
 
 Data Analyst | Business Intelligence
