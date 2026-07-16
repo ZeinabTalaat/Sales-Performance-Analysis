@@ -82,6 +82,9 @@ The analysis was implemented using **Power Query, Power BI, DAX, Microsoft Excel
         │   Business   │
         │   Insights    │
         └──────────────┘
+
+
+
 🧹 Data Cleaning – Power Query
 
 The raw dataset was cleaned and transformed using Power Query.
